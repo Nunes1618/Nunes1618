@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nunes1618&hide_progress=true)
 
-## Tecnologias que eu utilizo
+## Stacks de desenvolvimento
 
   ### Front-End
   <div style="display: inline_block">
