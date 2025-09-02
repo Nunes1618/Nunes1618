@@ -1,9 +1,7 @@
 
 ### Olá, eu me chamo Wesley Nunes e seja bem-vindo(a) 🤙
 
-![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=Nunes1618&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nunes1618&hide_progress=true)
+Seja bem vindo(a) ao meu perfil do GitHub, me chamo Wesley Nunes e como destaca no meu perfil tenho conhecimento nas linguagens Js e Ts com foco em React, stacks utilizadas nos meus projetos hospedados nos repositórios. Atuo de forma remota como Desenvolvedor de Software pela empresa Grupo Ide Comunicação. Sinta-se a vontade para explorar meus projetos e entrar em contato caso desejar.  
 
 ## Stacks de desenvolvimento
 
